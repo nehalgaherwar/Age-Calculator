@@ -42,11 +42,11 @@ JavaScript – Logic and calculations
 ---
 
 # 📂 Project Structure
-age-calculator/
-│── index.html
-│── style.css
-│── script.js
-└── README.md
+age-calculator/                                                                            
+│── index.html                                                                                   
+│── style.css                                                          
+│── script.js                                                                                                       
+└── README.md                                                                                                                                
 
 ----
 
