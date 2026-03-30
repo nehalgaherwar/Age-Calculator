@@ -11,10 +11,9 @@ This project allows users to calculate their exact age in years, months, and day
 
 # ⚡ Instant age calculation
 
+---
+
 # 📊 Displays age in:
-
-----
-
 # Years
 
 # Months
